@@ -15,7 +15,7 @@
 
 ## Contact info 📫
 
-<img src = 'https://github.com/123usef/123usef/blob/main/images/logo%20(1).jpg' alt = 'Joonguini' width='500px' height='500px' align='right'/>
+<img src='https://github.com/zainabnasser294/zainabnasser294/blob/main/Screenshot%202024-07-20%20172730.png?raw=true' alt='Description of image' width='500px' height='500px' align='right'/>
 
 
 
