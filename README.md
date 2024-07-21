@@ -73,6 +73,6 @@
   - :octocat: [My Resume](https://drive.google.com/file/d/19hpwpWPGzMNZAfdcJyKb-1ko7XrI7T8z/view?usp=sharing)
  
 
-![Usif's github stats](https://github-readme-stats.vercel.app/api?username=123usef&show_icons=true&hide=[%22issues%22])
+![Usif's github stats](https://github-readme-stats.vercel.app/api?username=Zainabnasser294&show_icons=true&hide=[%22issues%22])
  
  
